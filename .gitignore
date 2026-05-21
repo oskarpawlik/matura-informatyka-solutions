@@ -1,0 +1,44 @@
+# ==========================================
+# Microsoft Office (Excel & Access)
+# ==========================================
+# Ignore temporary lock files created when spreadsheets/databases are open
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+~$*.accdb
+*.laccdb
+
+# Ignore temporary backup files
+*.tmp
+
+# ==========================================
+# Python
+# ==========================================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (if you use them locally)
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# ==========================================
+# Operating Systems & IDEs
+# ==========================================
+# macOS clutter
+.DS_Store
+
+# Windows clutter
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Code Editors (VS Code / PyCharm)
+.vscode/
+.idea/

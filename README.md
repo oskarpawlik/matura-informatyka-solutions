@@ -8,9 +8,10 @@ Witaj w moim repozytorium! Znajdziesz tutaj moje autorskie rozwiązania zadań z
 
 ## 📁 Struktura repozytorium
 
-* **[Python solutions](./Python%20solutions)** – Zadania z Pythona  
-* **[Access solutions](./Access%20solutions)** – Zadania z Accessa  
-* **[Excel solutions](./Excel%20solutions)** – Zadania z Excela  
+* **[Python solutions](./Python%20solutions)** – Rozwiązanie zadań maturalnych w Pythonie
+* **[Access solutions](./Access%20solutions)** – Rozwiązanie zadań maturalnych w Accessie 
+* **[Excel solutions](./Excel%20solutions)** – Rozwiązanie zadań maturalnych w Excelu
+* **[Zbiór zadań CKE](./Zbiór%20zadań%20CKE)** – Rozwiązanie zadań ze zbioru CKE w Pythonie
 
 ---
 
@@ -50,9 +51,10 @@ Welcome to my repository! Here you’ll find my original solutions to practical 
 
 ## 📁 Repository Structure
 
-* **[Python solutions](./Python%20solutions)** – Python tasks and solutions  
-* **[Access solutions](./Access%20solutions)** – Microsoft Access tasks and databases  
-* **[Excel solutions](./Excel%20solutions)** – Excel spreadsheets and solutions  
+* **[Python solutions](./Python%20solutions)** – Solutions to Matura exam tasks in Python
+* **[Access solutions](./Access%20solutions)** – Solutions to Matura exam tasks in Access 
+* **[Excel solutions](./Excel%20solutions)** – Solutions to Matura exam tasks in Excel
+* **[Zbiór zadań CKE](./Zbiór%20zadań%20CKE)** – Solutions to CKE question collection tasks in Python
 
 ---
 

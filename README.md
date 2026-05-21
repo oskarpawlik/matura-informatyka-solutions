@@ -2,7 +2,7 @@
 
 ## 🇵🇱 Polski
 
-Witaj w moim repozytorium! Znajdziesz tutaj moje autorskie rozwiązania zadań z **matur z informatyki** z części praktycznej. Projekty zostały podzielone tematycznie na trzy główne obszary narzędziowe.
+Witaj w moim repozytorium! Znajdziesz tutaj moje autorskie rozwiązania zadań z **matur z informatyki** z części praktycznej oraz rozwiązania niektórych zadań ze zbioru CKE. Projekty zostały podzielone tematycznie na trzy główne obszary narzędziowe.
 
 ---
 
@@ -44,7 +44,7 @@ Warto pamiętać o pobraniu plików źródłowych (`.txt` z danymi maturalnymi) 
 
 ## 🇬🇧 English
 
-Welcome to my repository! Here you’ll find my original solutions to practical tasks from the Polish **Computer Science Matura exams**. The projects are organized into three main tool-based categories.
+Welcome to my repository! Here you’ll find my original solutions to practical tasks from the Polish **Computer Science Matura exams**, as well as some solutions to tasks from the official CKE question collection. The projects are organized into three main tool-based categories.
 
 ---
 

@@ -42,7 +42,7 @@ Warto pamiętać o pobraniu plików źródłowych (`.txt` z danymi maturalnymi) 
 
 ---
 
-# 🇬🇧 English
+## 🇬🇧 English
 
 Welcome to my repository! Here you’ll find my original solutions to practical tasks from the Polish **Computer Science Matura exams**. The projects are organized into three main tool-based categories.
 

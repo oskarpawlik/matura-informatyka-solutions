@@ -6,9 +6,9 @@ Witaj w moim repozytorium! Znajdziesz tutaj moje autorskie rozwiązania zadań z
 
 ## 📁 Struktura repozytorium
 
-* **[python solutions](./python%20solutions)** – Zadania z pythona
-* **[access solutions](./access%20solutions)** – Zadania z Accessa
-* **[excel solutions](./excel%20solutions)** – Zadania z excela
+* **[python solutions](./Python%20solutions)** – Zadania z pythona
+* **[access solutions](./Access%20solutions)** – Zadania z Accessa
+* **[excel solutions](./Excel%20solutions)** – Zadania z excela
 
 ---
 
